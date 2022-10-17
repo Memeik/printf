@@ -2,4 +2,4 @@ Creating a printf function making use of mainly concepts on Variadic Functions a
 Authors
 
 Favour Okorie | @Memeik
-Alawaye | @Alaqaye Joseph # Joseph the dreamer
+Alawaye oreoluwa | @Alawaye 
